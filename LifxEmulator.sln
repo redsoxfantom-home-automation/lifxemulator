@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
+# Visual Studio 2012
 VisualStudioVersion = 15.0.26403.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LifxEmulator", "LifxEmulator\LifxEmulator.csproj", "{17F490C7-1307-45FF-AE8E-7A39593202DD}"
+Project("{9344BDBB-3E7F-41FC-A0DD-8665D75EE146}") = "LifxEmulator", "LifxEmulator\LifxEmulator.csproj", "{17F490C7-1307-45FF-AE8E-7A39593202DD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
